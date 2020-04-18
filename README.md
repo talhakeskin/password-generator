@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 Both files can be used as below (in terminal)
 ```
 python3 generatePassword.py(c)
